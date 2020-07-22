@@ -1,0 +1,14 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<digit> = coke |
+	  cat |
+	  man |
+	  push |
+	  cake |
+	  cream |
+	  juice |
+	  jarvis |
+	  water ;
+public <digits> = <digit>+;

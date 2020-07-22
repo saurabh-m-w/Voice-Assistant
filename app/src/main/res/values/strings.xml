@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Voice Assistant</string>
+    <string name="commands">\n\n What is date?\n\n What is time?\n\n Battery percentage?\n\n Turn on/off Bluetooth
+\n\n Turn on/off Wi-Fi
+\n\n Turn on/off flashlight
+\n\n Set brightness full/low/medium
+\n\n What is weather
+\n\n Call to contact_name
+\n\n Open any_app_name
+\n\n Open text messages
+\n\n Send text message to contact_name
+\n\n Send whatsapp message to contact_name
+\n\n Scan qr code
+\n\n Scan image
+\n\n Text in image
+
+\n\n Search your_query
+\n\n Find place_name
+\n\n Take a note your_note
+\n\n Any notes
+\n\n Where am I
+\n\n Get direction to place_name
+\n\n We have added the hotword detection feature so basically we need not to
+touch the device simplly we to say "jarvis" then app will detect that keyword
+and start listening our command
+\n\n We have added one option in menu that add floating widget then app shows
+a floating movable button, by tapping on it we can simply perform all
+commands from outside the app.</string>
+</resources>
